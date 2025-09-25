@@ -1,0 +1,63 @@
+body{
+    background-color: #ffffff;
+    color:black;
+    font-family: segoe;
+}
+h1{
+    color:rgb(70, 70, 185);
+}
+.header{
+    background-color: lightgrey;
+    padding: 10px;
+    text-align: center;
+}
+.header h1{
+    margin: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.5em;
+}
+.header p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.2em;
+    color: darkslategray;
+}
+.about-me{
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid lightgrey;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+}
+.hobbies{
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid lightgrey;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+}
+.hobbies ul{
+    list-style-type: square;
+    padding-left: 20px;
+}
+.projects{
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid lightgrey;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+}
+.projects ul{
+    list-style-type: circle;
+    padding-left: 20px;
+}
+.languages{
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid lightgrey;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+}
+.languages ul{
+    list-style-type: disc;
+    padding-left: 20px;
+}
